@@ -1,0 +1,11 @@
+section {
+  width: 100%;
+  margin: 20px;
+}
+.part-container {
+  width: 100%;
+  display: flex;
+}
+.part {
+  margin-left: 30px;
+}
